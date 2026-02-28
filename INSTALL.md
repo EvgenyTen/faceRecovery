@@ -2,7 +2,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/kumyk95/img.git
+git clone https://github.com/EvgenyTen/faceRecovery.git
 cd img
 ```
 
